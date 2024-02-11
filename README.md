@@ -5,6 +5,8 @@ All the web testing is made with Page Object pattern and its pages is located at
 
 Inside the e2e folder, we have also, the api testing, located in `api` folder, where, the schema was validated using [Chai Json Schema](https://www.chaijs.com/plugins/chai-json-schema/)
 
+Last but also important, all manual test cases are inside the `Vertrical Test Cases_Qstore` pdf file.
+
 ---
 
 ## How to run the tests:
